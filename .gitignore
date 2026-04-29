@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Virtual envs
+backendenv/
+venv/
+.venv/
+
+# Django
+*.sqlite3
+
+# Node
+node_modules/
+
+# Build/tools
+CMake/
+*.whl
+
+# Data/assets
+Known_faces/
+
+# OS
+.DS_Store
+Thumbs.db
